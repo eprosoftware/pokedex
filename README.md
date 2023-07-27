@@ -10,7 +10,7 @@ yarn install
 ```
 3. Tener Nest CLI instalado
 ```
-npm -i -q qnestjs/cli
+npm -i -g @nestjs/cli
 ```
 4. LEvantar la base de datos
 ```
